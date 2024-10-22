@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/chatNow/static/css/main.40137b6b.css",
+    "main.js": "/chatNow/static/js/main.109cf33f.js",
+    "static/media/new.jpg": "/chatNow/static/media/new.f42ecb4bc8e4c4ed24be.jpg",
+    "index.html": "/chatNow/index.html",
+    "main.40137b6b.css.map": "/chatNow/static/css/main.40137b6b.css.map",
+    "main.109cf33f.js.map": "/chatNow/static/js/main.109cf33f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40137b6b.css",
+    "static/js/main.109cf33f.js"
+  ]
+}
